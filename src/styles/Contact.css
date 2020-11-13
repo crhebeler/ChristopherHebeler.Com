@@ -1,0 +1,19 @@
+.thecardsize {height:250px;
+        width: 250px;
+        display: block;
+        margin-top: 10px;
+        margin-left: auto;
+        margin-right: auto;
+       
+        }
+        .card{text-align: center;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 40px;
+        border: solid black 5px; 
+width: 300px;}
+
+@media (min-width: 530px) and (max-width: 3000px) {
+.cardhide{ display: none;}} 

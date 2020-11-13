@@ -1,0 +1,73 @@
+
+h4{font-size: 30px;}
+h1{text-align: right;
+margin-right: 20px;
+margin-left: 20px;}
+
+.MyLogo{height: auto;
+width: 100px;
+margin:20px;}
+
+html,body{background-image:
+    radial-gradient(closest-side, transparent 0%, transparent 75%, #B6CC66 76%, #B6CC66 85%, #EDFFDB 86%, #EDFFDB 94%, #FFFFFF 95%, #FFFFFF 103%, #D9E6A7 104%, #D9E6A7 112%, #798B3C 113%, #798B3C 121%, #FFFFFF 122%, #FFFFFF 130%, #E0EAD7 131%, #E0EAD7 140%),
+    radial-gradient(closest-side, transparent 0%, transparent 75%, #B6CC66 76%, #B6CC66 85%, #EDFFDB 86%, #EDFFDB 94%, #FFFFFF 95%, #FFFFFF 103%, #D9E6A7 104%, #D9E6A7 112%, #798B3C 113%, #798B3C 121%, #FFFFFF 122%, #FFFFFF 130%, #E0EAD7 131%, #E0EAD7 140%);
+    background-size: 110px 110px;
+    background-color: #C8D3A7;
+    background-position: 0 0, 55px 55px;}
+
+.nav{ 
+  background-color: #F8F8F8;
+  color: black;
+    border: 5px solid black;
+  margin-right: 10px;
+  margin-top: 5px;
+margin-left: 10px;
+text-align: center;}   
+
+a{color: black;
+margin: 10px;
+text-align: center;}
+/* change navbar background */
+  /* change navbar-brand color */
+  .navbar a.navbar-brand {
+    color: black;}
+
+  /*  change navbar li colors, also active one but not disabled one */
+
+  /* change navbar-toggler inside lines color (stroke) */
+  .navbar-light span.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='yellow' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    color: black;
+  }
+  .navbar-collapse{ background-color: #F8F8F8;
+    border: 5px solid black;}   
+
+  /* change hamburger button border color */
+  button.navbar-toggler.navbar-toggler-right {
+    color: black;
+    border-color:black;
+    background-color: white;
+  }
+  /* change navbar background on collapse */
+
+
+
+
+  
+  .jumbotron { display: none;}
+    .navbar-light{background-color: #C8D3A7;
+    margin-bottom:  20px;
+    margin-right: 5px;
+    margin-left: 5px;
+    border: 5px solid black;  }
+        .moblie{  background-color: #F8F8F8; 
+        border: solid black 5px;}
+        .navbar-toggler{background-color:white;}
+        .navbar-toggler-icon{background-color:gray;}
+         h2{ display:block;
+  font-size: 40px; 
+  margin:auto;
+  background-color: #F8F8F8;  }  
+
+    
+ 

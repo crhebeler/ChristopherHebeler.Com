@@ -1,0 +1,23 @@
+footer{text-align: center;
+    background-color: #e9ecef; 
+    border: 5px solid black; 
+height: auto;
+margin: 40px; }
+
+
+.reactlogo{
+    height: 50px;
+width: 68px;
+margin-bottom: 5px;
+}
+.img{ text-align: center;}
+
+@media (min-width: 320px) and (max-width: 530px) {
+    footer{ border: 1px solid #e9ecef;
+        background-color: #e9ecef; 
+        border: 5px solid black; } 
+      
+      .selection{height: 85px}
+}
+    
+    

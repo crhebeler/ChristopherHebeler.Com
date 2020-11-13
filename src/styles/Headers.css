@@ -1,0 +1,29 @@
+.jumbotron{text-align: center; 
+width: 800px;
+height: auto;
+border: grey;
+border: 5px solid black;
+margin: auto;
+width: 50%;
+padding: 10px;
+margin-bottom: 40px
+}
+
+
+
+jumbotron h1 {
+    position: relative;
+    display: block;
+    font-weight: bold;
+    font-size: 60px;
+    color:black;
+   
+}
+
+
+@media (min-width: 320px) and (max-width: 530px) {
+    .jumbotron{ height: 140px;
+        width: auto;
+        font-size: 30px;
+  margin:30px;  }} 
+ 
