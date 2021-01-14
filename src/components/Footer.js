@@ -20,7 +20,7 @@ const Footer = (props) => {
     
       <section> 
         <br/> 
-      <h5><b>Christopher Hebeler</b>  &copy; 2020<h5>  made with <img className="reactlogo" src={ReactLogo} alt="ReactLogo"  /> React JS</h5>   </h5>  
+      <h5><b>Christopher Hebeler</b>  &copy; 2021<h5>  made with <img className="reactlogo" src={ReactLogo} alt="ReactLogo"  /> React JS</h5>   </h5>  
       </section> 
 
     </footer> 

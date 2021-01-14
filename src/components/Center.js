@@ -24,10 +24,7 @@ const Center = () => (
 <h3>
 <br></br><b>Hello, My name is Christopher Hebeler.</b>
  
-<br></br> 
-<br></br> 
-I currently reside in Denver. Located in the state of Colorado<br></br> 
-<br></br> 
+
 
 Thank you, for visiting my website<br></br>
 <br></br>
